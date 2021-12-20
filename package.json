@@ -15,5 +15,17 @@
     "express": "^4.17.1",
     "nodejs": "0.0.0",
     "v10": "^1.0.1"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deepak-glad/token_generator.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "bugs": {
+    "url": "https://github.com/deepak-glad/token_generator/issues"
+  },
+  "homepage": "https://github.com/deepak-glad/token_generator#readme"
 }
