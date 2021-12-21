@@ -21,8 +21,8 @@ var PORT = process.env.PORT
     replace this with your own
 */
 
-appID = 'a9da97992b564b869613ffd61d4ee878' //app id
-appCertificate = '2469172486fd42518208db2f6e2b3bd7' //certificate key
+appID = '5c3002779a404d87b3effbd526e3c546' //app id
+appCertificate = '0b2898aa989e405588128327242d47d7' //certificate key
 
 /*
 
